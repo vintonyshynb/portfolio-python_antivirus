@@ -1,4 +1,4 @@
-#Python Security Scanner
+# Python Security Scanner
 
 Features
 - Signature based detection
