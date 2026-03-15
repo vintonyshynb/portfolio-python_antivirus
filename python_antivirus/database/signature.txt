@@ -1,0 +1,3 @@
+eval(base64_decode(
+cmd.exe
+powershell -enc
